@@ -1,6 +1,6 @@
 # EV Simulation in MATLAB  
 
-This repository contains an Electric Vehicle (EV) performance simulation built in MATLAB. The project focuses on evaluating EV drivetrain requirements under real-world driving conditions using standard duty cycles.  
+This repository contains an Electric Vehicle (EV) performance simulation built in MATLAB/Simulink. The project focuses on evaluating EV drivetrain requirements under real-world driving conditions using standard duty cycles and determine the sizing of traction motor.  
 
 ## Features  
 1. **Drive Cycles Implemented**  
@@ -30,4 +30,23 @@ This simulation helps in:
 - Understanding system-level impacts of duty cycles on motor sizing  
 
 ## Tools  
-- MATLAB (script-based modeling nd analysis)  
+- MATLAB/Simulink (script-based modeling and analysis)
+
+## SIMULINK model
+![image alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Simulink_model.JPG)
+
+## Results of EV simulation model
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_Curve_WLTP.jpg)
+
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_Curve_WLTP.jpg)
+
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_Curve_FTP75.jpg)
+
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_Curve_FTP75.jpg)
+
+## Result of Motor sizing model
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_v_Speed.jpg)
+
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_v_Speed.jpg)
+
+![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Efficiency_Map.jpg)
