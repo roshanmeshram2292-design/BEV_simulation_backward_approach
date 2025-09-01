@@ -56,4 +56,4 @@ This simulation helps in:
 
 6. For customised duty cycle, accleration and top speed change the respective parameters and excel spreadsheet as per requirement and follow the same above steps.
 
-7. Same **'EV_sim_model.slx'** file can be used to run seperately for the different customised duty cycle. For drive cycle update the excel spreadsheet as required and change the "duty cycle case block" variable like [1, 2, 3]. This model can be used to estimate the approximate Battery capacity of vehicle, SOC % level for specifed duty cycle, Battery current etc.
+7. Same **`EV_sim_model.slx`** file can be used to run seperately for the different customised duty cycle. For drive cycle update the excel spreadsheet as required and change the "duty cycle case block" variable like [1, 2, 3]. This model can be used to estimate the approximate Battery capacity of vehicle, SOC % level for specifed duty cycle, Battery current etc.
