@@ -49,9 +49,11 @@ This simulation helps in:
 
 ## How to use the model
 1. Clone or download this repository.
-2. Open MATLAB (R202x or later recommended).
+2. Open MATLAB (R2024a or later recommended).
 3. Navigate to the folder where the repository is saved.
-4. Open the file **`EV_sim.mlx`** in MATLAB.
+4. Open the file **`EV_sim_script.mlx`** in MATLAB.
 5. Click **Run** to execute the live script and see the simulation results.
 
 6. For customised duty cycle, accleration and top speed change the respective parameters and excel spreadsheet as per requirement and follow the same above steps.
+
+7. Same **'EV_sim_model.slx'** file can be used to run seperately for the different customised duty cycle. For drive cycle update the excel spreadsheet as required and change the "duty cycle case block" variable like [1, 2, 3]. This model can be used to estimate the approximate Battery capacity of vehicle, SOC % level for specifed duty cycle, Battery current etc.
