@@ -5,7 +5,6 @@ This repository contains an Electric Vehicle (EV) performance simulation built i
 ## Features  
 1. **Drive Cycles Implemented**  
    - WLTP (Worldwide Harmonized Light Vehicles Test Procedure)  
-   - FTP-75 (Federal Test Procedure)  
 
 2. **Performance Analysis**  
    - Top speed estimation  
