@@ -46,3 +46,12 @@ This simulation helps in:
 ![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_v_Speed.jpg)
 
 ![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Efficiency_Map.jpg)
+
+## How to use the model
+1. Clone or download this repository.
+2. Open MATLAB (R202x or later recommended).
+3. Navigate to the folder where the repository is saved.
+4. Open the file **`EV_sim.mlx`** in MATLAB.
+5. Click **Run** to execute the live script and see the simulation results.
+
+6. For customised duty cycle, accleration and top speed change the respective parameters and excel spreadsheet as per requirement and follow the same above steps.
