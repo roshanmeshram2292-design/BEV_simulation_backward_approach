@@ -11,8 +11,8 @@ This repository contains an Electric Vehicle (EV) performance simulation built i
    - 0–100 km/h acceleration time  
 
 3. **Outputs Generated**  
-   - Torque vs. Time for WLTP and FTP-75  
-   - Power vs. Time for WLTP and FTP-75  
+   - Torque vs. Time for WLTP  
+   - Power vs. Time for WLTP  
    - Torque-Speed curve  
    - Power-Speed curve  
    - Efficiency map of the traction motor  
