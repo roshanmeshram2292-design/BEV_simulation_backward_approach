@@ -32,16 +32,13 @@ This simulation helps in:
 - MATLAB/Simulink (script-based modeling and analysis)
 
 ## SIMULINK model
-![image alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Simulink_model.JPG)
+![image alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/cb9bba5756b88177ef0afdb323b4d6d6a4730044/Result%20Images/Simulink_model.JPG)
 
 ## Results of EV simulation model
 ![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_Curve_WLTP.jpg)
 
 ![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_Curve_WLTP.jpg)
 
-![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Power_Curve_FTP75.jpg)
-
-![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_Curve_FTP75.jpg)
 
 ## Result of Motor sizing model
 ![image_alt](https://github.com/roshanmeshram2292-design/BEV_simulation_backward_approach/blob/7005ae2fa9c18abdadaa75d95516cd4cdd784fbc/Result%20Images/Motor_Torque_v_Speed.jpg)
